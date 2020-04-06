@@ -5,7 +5,7 @@ import (
 	"strconv"
 )
 
-func main() {
+func sub() {
 	fmt.Println("hi")
 	// fmt.Print(q1())
 	// num := 123
